@@ -1,11 +1,11 @@
 # AMBA_APB_UVM_DESIGN_VERIFICATIOn
 APB Protocol Design and Verification using UVM/SV
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Author:    Prabhat Bhatt
-// Email:     iprabhatbhatt29@gmail.com
-// Date Created: 07-Feb-2019
-// Revision: 0.1
-// Description: APB Protocol Design and Verification using UVM/SV
+Author:    Prabhat Bhatt
+Email:     iprabhatbhatt29@gmail.com
+Date Created: 07-Feb-2019
+Revision: 0.1
+Description: APB Protocol Design and Verification using UVM/SV
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /******************************************* LICENSE BEGIN **************************************
